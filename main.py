@@ -16,7 +16,7 @@ This version now:
   8) When exiting the merchant shop, the player is repositioned to the grid center.
 """
 
-# github.com/payu-witta
+# github.com/payu-witta/RoguePyxel
 
 import pyxel
 import random
